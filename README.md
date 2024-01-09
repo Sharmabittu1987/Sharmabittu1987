@@ -15,4 +15,4 @@
   
 - 📫 How to reach me: -
 -    Linkedin - linkedin.com/in/scorpionbittu
--    Email - sharmabittukumsr01@gmail.com
+-    Email - sharmabittukumar01@gmail.com
