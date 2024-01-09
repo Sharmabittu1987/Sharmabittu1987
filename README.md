@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharmabittu1987
   
-- 👀 I’m a Software Development Engineer in Testing with 5.5+ years of experience in Software Development Processes and optimal Testing Strategies. Results-driven professional exhibits an Honest Work Ethic with the ability to Excel in Fast-Paced, Time-Sensitive Environments & An excellent team player with a proven ability to work consistently towards attaining Goals and targets. 
+- 👀 I’m a Software Development Engineer in Testing with 5 years of experience in Software Development Processes and optimal Testing Strategies. Results-driven professional exhibits an Honest Work Ethic with the ability to Excel in Fast-Paced, Time-Sensitive Environments & An excellent team player with a proven ability to work consistently towards attaining Goals and targets. 
 - 🌱 I’m a fast learner, open to exploring new technologies and facing new challenges and roles to deliver the best quality product.
   
 - I have good knowledge and hands-on experience with the following tools: -
@@ -15,4 +15,4 @@
   
 - 📫 How to reach me: -
 -    Linkedin - linkedin.com/in/scorpionbittu
--    Email - scorpionbittusharma@gmail.com
+-    Email - sharmabittukumsr01@gmail.com
