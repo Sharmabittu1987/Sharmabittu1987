@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sharmabittu1987
+- 👋 Hi, I’m Bittu Kumar Sharma
   
 - 👀 I’m a Software Development Engineer in Testing with 5 years of experience in Software Development Processes and optimal Testing Strategies. Results-driven professional exhibits an Honest Work Ethic with the ability to Excel in Fast-Paced, Time-Sensitive Environments & An excellent team player with a proven ability to work consistently towards attaining Goals and targets. 
 - 🌱 I’m a fast learner, open to exploring new technologies and facing new challenges and roles to deliver the best quality product.
@@ -14,5 +14,5 @@
 -   Scriptless Testing - Fireflink
   
 - 📫 How to reach me: -
--    Linkedin - linkedin.com/in/scorpionbittu
+-    Linkedin - linkedin.com/in/bittusharmaofficially
 -    Email - sharmabittukumar01@gmail.com
